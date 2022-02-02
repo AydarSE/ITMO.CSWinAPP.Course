@@ -1,0 +1,2 @@
+C:\Users\Aydar\Documents\Обучение\ИТМО\02_Инженер-программист\05 WS приложения С#\ЛР\Examples\2\CSharp_Windows_Forms-master\Calculator.EXAM\obj\Debug\WindowsCalculator.csproj.AssemblyReference.cache
+C:\Users\Aydar\Documents\Обучение\ИТМО\02_Инженер-программист\05 WS приложения С#\ЛР\Examples\2\CSharp_Windows_Forms-master\Calculator.EXAM\obj\Debug\WindowsCalculator.csproj.SuggestedBindingRedirects.cache

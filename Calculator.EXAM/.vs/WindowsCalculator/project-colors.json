@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fd2df4-4fe9-491f-960b-4bfb55a6632f": {
+      "ProjectGuid": "a2fd2df4-4fe9-491f-960b-4bfb55a6632f",
+      "DisplayName": "WindowsCalculator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,6 @@
+C:\Users\Aydar\Documents\Обучение\ИТМО\02_Инженер-программист\05 WS приложения С#\ЛР\Examples\2\CSharp_Windows_Forms-master\Calculator.EXAM\CalculatorEngine\bin\Debug\CalculatorEngine.dll
+C:\Users\Aydar\Documents\Обучение\ИТМО\02_Инженер-программист\05 WS приложения С#\ЛР\Examples\2\CSharp_Windows_Forms-master\Calculator.EXAM\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
+C:\Users\Aydar\Documents\Обучение\ИТМО\02_Инженер-программист\05 WS приложения С#\ЛР\Examples\2\CSharp_Windows_Forms-master\Calculator.EXAM\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.AssemblyReference.cache
+C:\Users\Aydar\Documents\Обучение\ИТМО\02_Инженер-программист\05 WS приложения С#\ЛР\Examples\2\CSharp_Windows_Forms-master\Calculator.EXAM\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.CoreCompileInputs.cache
+C:\Users\Aydar\Documents\Обучение\ИТМО\02_Инженер-программист\05 WS приложения С#\ЛР\Examples\2\CSharp_Windows_Forms-master\Calculator.EXAM\CalculatorEngine\obj\Debug\CalculatorEngine.dll
+C:\Users\Aydar\Documents\Обучение\ИТМО\02_Инженер-программист\05 WS приложения С#\ЛР\Examples\2\CSharp_Windows_Forms-master\Calculator.EXAM\CalculatorEngine\obj\Debug\CalculatorEngine.pdb
